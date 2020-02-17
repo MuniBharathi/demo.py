@@ -1,0 +1,1 @@
+print('SeyaShree'*3)
